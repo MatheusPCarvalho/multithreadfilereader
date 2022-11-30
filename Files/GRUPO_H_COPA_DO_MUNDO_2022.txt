@@ -1,0 +1,104 @@
+Manaf Nurudeen    Goleiro    Gana
+Ibrahim Danlad	   Goleiro    Gana
+Lawrence Ati-Zigi    Goleiro    Gana
+Denis Odoi    Defensor    Gana
+Tariq Lamptey    Defensor    Gana
+Alidu Seidu    Defensor    Gana
+Daniel Amartey    Defensor    Gana
+Joseph Aidoo    Defensor    Gana
+Alexander Djiku    Defensor    Gana
+Mohammed Salisu    Defensor    Gana
+Abdul-Rahman Baba    Defensor    Gana
+Gideon Mensah    Defensor    Gana
+Andre Ayew    Meio-campista    Gana
+Thomas Partey    Meio-campista    Gana
+Elisha Owusu    Meio-campista    Gana
+Salis Abdul Samed    Meio-campista    Gana
+Mohammed Kudus    Meio-campista    Gana
+Daniel-Kofi Kyeren    Meio-campista    Gana
+Daniel Barnieh Afriyie    Atacante    Gana
+Kamal Sowah    Atacante    Gana
+Issahaku Abdul Fatawu    Atacante    Gana
+Osman Bukari    Atacante    Gana
+Inaki Williams    Atacante    Gana
+Antoine Semenyo    Atacante    Gana
+Jordan Ayew    Atacante    Gana
+Kamaldeen Sulemana    Atacante    Gana
+Diogo Costa    Goleiro    Portugal
+José Sá    Goleiro    Portugal
+Rui Patrício    Goleiro    Portugal
+Diogo Dalot    Defensor    Portugal
+João Cancelo    Defensor    Portugal
+Danilo Pereira    Defensor    Portugal
+Pepe    Defensor    Portugal
+Rúben Dias    Defensor    Portugal
+António Silva    Defensor    Portugal
+Nuno Mendes    Defensor    Portugal
+Raphael Guerreiro    Defensor    Portugal
+João Palhinha    Meio-campista    Portugal
+Rúben Neves    Meio-campista    Portugal
+Bernardo Silva    Meio-campista    Portugal
+Bruno Fernandes    Meio-campista    Portugal
+João Mário    Meio-campista    Portugal
+Matheus Nunes    Meio-campista    Portugal
+Otávio Monteiro    Meio-campista    Portugal
+Vitinha    Meio-campista    Portugal
+William Carvalho    Meio-campista    Portugal
+André Silva    Atacante    Portugal
+Cristiano Ronaldo    Atacante    Portugal
+Gonçalo Ramos    Atacante    Portugal
+João Félix    Atacante    Portugal
+Rafael Leão    Atacante    Portugal
+Ricardo Horta    Atacante    Portugal
+Kim Seung-Gyu    Goleiro    Coreia do Sul
+Jo Hyeon-Woo    Goleiro    Coreia do Sul
+Song Bum-Keun    Goleiro    Coreia do Sul
+Kim Min-jae    Defensor    Coreia do Sul
+Kim Jin-su    Defensor    Coreia do Sul
+Hong Chul    Defensor    Coreia do Sul
+Kim Moon-hwan    Defensor    Coreia do Sul
+Yoon Jong-gyu    Defensor    Coreia do Sul
+Kim Young-gwon    Defensor    Coreia do Sul
+Kim Tae-hwan    Defensor    Coreia do Sul
+Kwon Kyung-won    Defensor    Coreia do Sul
+Cho Yu-min    Defensor    Coreia do Sul
+Jung Woo-young    Meio-campista    Coreia do Sul
+Na Sang-ho    Meio-campista    Coreia do Sul
+Paik Seung-ho    Meio-campista    Coreia do Sul
+Son Jun-ho    Meio-campista    Coreia do Sul
+Song Min-kyu    Meio-campista    Coreia do Sul
+Kwon Chang-hoon    Meio-campista    Coreia do Sul
+Son Heung-min    Meio-campista    Coreia do Sul
+Lee Jae-sung    Meio-campista    Coreia do Sul
+Hwang Hee-chan    Meio-campista    Coreia do Sul
+Hwang In-beom    Meio-campista    Coreia do Sul
+Jeong Woo-yeong    Meio-campista    Coreia do Sul
+Lee Kang-in    Meio-campista    Coreia do Sul
+Hwang Ui-jo    Atacante    Coreia do Sul
+Cho Gue-sung    Atacante    Coreia do Sul
+Fernando Muslera    Goleiro    Uruguai
+Sergio Rochet    Goleiro    Uruguai
+Sebastián Sosa    Goleiro    Uruguai
+Ronald Araújo    Defensor    Uruguai
+Martín Cáceres    Defensor    Uruguai
+Sebastián Coates    Defensor    Uruguai
+José María Giménez    Defensor    Uruguai
+Diego Godín    Defensor    Uruguai
+Mathías Olivera    Defensor    Uruguai
+José Luis Rodríguez    Defensor    Uruguai
+Guillermo Varela    Defensor    Uruguai
+Matías Viña    Defensor    Uruguai
+Rodrigo Bentancur    Meio-campista    Uruguai
+Giorgian de Arrascaeta    Meio-campista    Uruguai
+Nicolás de la Cruz    Meio-campista    Uruguai
+Facundo Pellistri    Meio-campista    Uruguai
+Lucas Torreira    Meio-campista    Uruguai
+Manuel Ugarte    Meio-campista    Uruguai
+Federico Valverde    Meio-campista    Uruguai
+Matías Vecino    Meio-campista    Uruguai
+Agustín Canobbio    Atacante    Uruguai
+Edinson Cavani    Atacante    Uruguai
+Maximiliano Gómez    Atacante    Uruguai
+Darwin Núñez    Atacante    Uruguai
+Luis Suárez    Atacante    Uruguai
+Facundo Torres    Atacante    Uruguai

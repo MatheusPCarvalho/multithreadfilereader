@@ -1,0 +1,105 @@
+Alisson    Goleiro    Brasil
+Ederson	   Goleiro    Brasil
+Alisson    Goleiro    Brasil
+Weverton   Goleiro    Brasil
+Alex Sandro    Defensor    Brasil
+Alex Telles    Defensor    Brasil
+Danilo    Defensor    Brasil    
+Daniel Alves    Defensor    Brasil
+Bremer    Defensor    Brasil
+Éder Militão    Defensor    Brasil
+Marquinhos    Defensor    Brasil
+Thiago Silva    Defensor    Brasil
+Bruno Guimarães    Meio-campista    Brasil
+Casemiro    Meio-campista    Brasil
+Fabinho    Meio-campista    Brasil
+Fred    Meio-campista    Brasil
+Lucas Paquetá    Meio-campista    Brasil
+Éverton Ribeiro    Meio-campista    Brasil
+Antony    Atacante    Brasil
+Gabriel Jesus    Atacante    Brasil
+Gabriel Martinelli    Atacante    Brasil
+Neymar    Atacante    Brasil
+Pedro    Atacante    Brasil
+Raphinha    Atacante    Brasil
+Richarlison    Atacante    Brasil
+Rodrygo    Atacante    Brasil
+Vinícius Jr.    Atacante    Brasil
+Gregor Kobel    Goleiro    Suíça
+Philipp Kohn    Goleiro    Suíça
+Jonas Omlin    Goleiro    Suíça
+Yann Sommer    Goleiro    Suíça
+Manuel Akanji    Defensor    Suíça
+Nico Elvedi    Defensor    Suíça
+Eray Comert    Defensor    Suíça
+Ricardo Rodriguez    Defensor    Suíça
+Fabian Schar    Defensor    Suíça
+Silvan Widmer    Defensor    Suíça
+Michel Aebischer    Meio-campista    Suíça
+Edimilson Fernandes    Meio-campista    Suíça
+Fabian Frei    Meio-campista    Suíça
+Remo Freuler    Meio-campista    Suíça
+Ardon Jashari    Meio-campista    Suíça
+Fabian Rieder    Meio-campista    Suíça
+Djibril Sow    Meio-campista    Suíça
+Granit Xhaka    Meio-campista    Suíça
+Denis Zakaria    Meio-campista    Suíça
+Breel Embolo    Atacante    Suíça
+Christian Fassnacht    Atacante    Suíça
+Noah Okafor    Atacante    Suíça
+Haris Seferovic    Atacante    Suíça
+Xherdan Shaqiri    Atacante    Suíça
+Renato Steffen    Atacante    Suíça
+Rubén Vargas    Atacante    Suíça
+Devis Epsassy    Goleiro    Camarões
+Simon Ngapandouentnbu    Goleiro    Camarões
+Andre Onana    Goleiro    Camarões
+Jean-Charles Castelletto    Defensor    Camarões
+Enzo Ebosse    Defensor    Camarões
+Collins Fai    Defensor    Camarões
+Olivier Mbaizo    Defensor    Camarões
+Nicolas Nkoulou    Defensor    Camarões
+Tolo Nouhou    Defensor    Camarões
+Christopher Wooh    Defensor    Camarões
+Martin Hongla    Meio-campista    Camarões
+Pierre Kunde    Meio-campista    Camarões
+Olivier Ntcham    Meio-campista    Camarões
+Gael Ondoua    Meio-campista    Camarões
+Samuel Oum Gouet    Meio-campista    Camarões
+Andre-Frank Zambo Anguissa    Meio-campista    Camarões
+Vicent Aboubakar    Atacante    Camarões
+Christian Bassogog    Atacante    Camarões
+Eric-Maxime Choupo Moting    Atacante    Camarões
+Souaibou Marou    Atacante    Camarões
+Bryan Mbeumo    Atacante    Camarões
+Nicolas Moumi    Atacante    Camarões
+Jerome Ngom    Atacante    Camarões
+Georges-Kevin Nkoudou    Atacante    Camarões
+Jean-Pierre Nsame    Atacante    Camarões
+Karl Toko Ekambi    Atacante    Camarões
+Marko Dmitrovic    Goleiro    Sérvia
+Predrag Rajkovic    Goleiro    Sérvia
+Vanja Milinkovic-Savic    Goleiro    Sérvia
+Stefan Mitrovic    Defensor    Sérvia
+Nikola Milenkovic    Defensor    Sérvia
+Strahinja Pavlovic    Defensor    Sérvia
+Milos Veljkovic    Defensor    Sérvia
+Filip Mladenovic    Defensor    Sérvia
+Strahinja Erakovic    Defensor    Sérvia
+Srdan Babic    Defensor    Sérvia
+Nemanja Gudelj    Meio-campista    Sérvia
+Sergej Milinkovic-Savic    Meio-campista    Sérvia
+Sasa Lukic    Meio-campista    Sérvia
+Marko Grujic    Meio-campista    Sérvia
+Filip Kostic    Meio-campista    Sérvia
+Uros Racic    Meio-campista    Sérvia
+Nemanja Maksimovic    Meio-campista    Sérvia
+Ivan Ilic    Meio-campista    Sérvia
+Andriza Zivkovic    Meio-campista    Sérvia
+Darko Lazovic    Meio-campista    Sérvia
+Dusan Tadic    Atacante    Sérvia
+Aleksandr Mitrovic    Atacante    Sérvia
+Dusan Vlahovic    Atacante    Sérvia
+Filip Duric    Atacante    Sérvia
+Luka Jovic    Atacante    Sérvia
+Nemanja Radonjic    Atacante    Sérvia
