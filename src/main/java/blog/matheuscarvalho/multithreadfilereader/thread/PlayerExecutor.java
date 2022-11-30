@@ -21,12 +21,21 @@ public class PlayerExecutor extends BaseExecutor<String, Set<Player>> {
 
 	@Override
 	public Map<String, Set<Player>> run() throws IOException, Exception {
+
 		Map<String, Set<Player>> mapFilesPlayers = Collections.synchronizedMap(new Hashtable<>());
+
 		Set<String> playersFiles = FileUtil.listFiles(FileEnum.PLAYER_DIRECTORY.getValue());
+
+		Map<String, Future<Set<Player>>> futures = Collections.synchronizedMap(new Hashtable<>());
+
 		playersFiles.stream().forEach(f -> {
 			Future<Set<Player>> future = executor.submit(new PlayerTask(f));
+			futures.put(f, future);
+		});
+
+		futures.forEach((key, value) -> {
 			try {
-				mapFilesPlayers.put(f, future.get());
+				mapFilesPlayers.put(key, value.get());
 			} catch (InterruptedException | ExecutionException e) {
 				e.printStackTrace();
 			}
