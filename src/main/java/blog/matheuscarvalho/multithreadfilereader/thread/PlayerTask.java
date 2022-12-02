@@ -10,7 +10,7 @@ import blog.matheuscarvalho.multithreadfilereader.model.Player;
 
 public class PlayerTask implements Callable<Set<Player>> {
 
-	private FileReader<Player> reader = new PlayerReader();
+	private FileReader<Player> reader;
 
 	private String path;
 
